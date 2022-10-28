@@ -5,9 +5,10 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "3414a4ab90d70cfaf667deffebccf295",
 "favicon.ico": "3d7852dbe2118e4a589bec8eb92cabe5",
-"index.html": "9be1be09dbbe250332ea314abf46fe79",
-"/": "9be1be09dbbe250332ea314abf46fe79",
-"main.dart.js": "3e66adbd6bb8119bc5cde9e4f776cbad",
+"index.html": "32106db083c62466e1e6230de961dae4",
+"/": "32106db083c62466e1e6230de961dae4",
+"main.dart.js": "b44a930929116bcdd15d08a75a9be37c",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "site.webmanifest": "b029b36da21458319debcfb2786f2886",
 "icons/favicon-16x16.png": "ad1d91d56df5bf78f61b65574a150bbb",
 "icons/safari-pinned-tab.svg": "9377c3c79d4553801c64b373c045678f",
@@ -95,7 +96,11 @@ const RESOURCES = {
 "assets/assets/fonts/OpenSans-BoldItalic.ttf": "210de434db54de4a6a73d1cf8604e224",
 "assets/assets/fonts/Montserrat-SemiBoldItalic.ttf": "d41c0a341637c2e35ae019730b2d45a5",
 "assets/assets/fonts/Montserrat-ExtraBoldItalic.ttf": "e07b3f35e3e0073b2cde4c5a951cc24e",
-"browserconfig.xml": "d2c3ec839559c9b7c7638c378d45bca5"
+"browserconfig.xml": "d2c3ec839559c9b7c7638c378d45bca5",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
