@@ -63188,7 +63188,7 @@ for(s=0;s<21;++s)o[s]=A.eh(!1,!0,new A.bX(B.Du,new A.lI(p[s].a,r),r),r,!0,r,r,r,
 B.b.H(q,o)
 return new A.la(A.bC(q,B.L,B.o),r)}}
 A.T_.prototype={
-$0(){var s="assets/documents/"+$.ah4()[this.b].b,r=document.createElement("a")
+$0(){var s="assets/assets/documents/"+$.ah4()[this.b].b,r=document.createElement("a")
 r.href=s
 r.download=s
 r.click()

@@ -5,10 +5,9 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "3414a4ab90d70cfaf667deffebccf295",
 "favicon.ico": "3d7852dbe2118e4a589bec8eb92cabe5",
-"index.html": "d642feece66febcec3b09d4a99cfb00e",
-"/": "d642feece66febcec3b09d4a99cfb00e",
-"main.dart.js": "f75f40794a7720e93c4824329114e6fc",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"index.html": "9be1be09dbbe250332ea314abf46fe79",
+"/": "9be1be09dbbe250332ea314abf46fe79",
+"main.dart.js": "3e66adbd6bb8119bc5cde9e4f776cbad",
 "site.webmanifest": "b029b36da21458319debcfb2786f2886",
 "icons/favicon-16x16.png": "ad1d91d56df5bf78f61b65574a150bbb",
 "icons/safari-pinned-tab.svg": "9377c3c79d4553801c64b373c045678f",
@@ -17,7 +16,7 @@ const RESOURCES = {
 "icons/android-chrome-512x512.png": "14fcca9fe51a7c7dd0677868c75e71e1",
 "icons/mstile-150x150.png": "a10f643e979ee5ecd823d284e4ac4416",
 "icons/favicon-32x32.png": "7633486ef574dd2057d7520c4ea386c7",
-"assets/AssetManifest.json": "4871033c4346b67c131ab5cd5a671c6e",
+"assets/AssetManifest.json": "91fcd6f2d7d7e412a43ad221422e59c6",
 "assets/NOTICES": "fdcfcc0a269033ba716bf48b5f74ac20",
 "assets/FontManifest.json": "43f064414315aa0e57bbeccf8705faab",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -60,10 +59,10 @@ const RESOURCES = {
 "assets/assets/documents/Zzakon-za-zdraveto.doc": "6ba6b679945008f00c261d7cfecd68e2",
 "assets/assets/documents/Nar_nam_rab_vreme.rtf": "f3f79e29119cc54320a50248b01f6d94",
 "assets/assets/documents/Nar_rab_vreme.doc": "f7ac29f411091a27f51d8d4978d38305",
+"assets/assets/documents/Naredba-rabotni-mesta-za-udostoverqvane.doc": "356b45eaafd6ca9357214fe898b5ca91",
 "assets/assets/documents/Nar_dop_pl_otpusk.rtf": "052a6b16fca1ee3275f36f5a237817d4",
 "assets/assets/documents/Pravila-i-normi-za-pogarna-bezop-pri-eksploataciq-na-obektite-.doc": "eb4b1d4e2662a56fe5f9947a011a2096",
 "assets/assets/documents/Nar-5_20-5-06.rtf": "7e31f606dc9f66ac2f62777906b56aa9",
-"assets/assets/documents/%25D0%259D%25D0%2590%25D0%25A0%25D0%2595%25D0%2594%25D0%2591%25D0%2590-%25D0%25A0%25D0%2590%25D0%2591%25D0%259E%25D0%25A2%25D0%259D%25D0%2598-%25D0%259C%25D0%2595%25D0%25A1%25D0%25A2%25D0%2590-%25D0%2597%25D0%2590-%25D0%25A2%25D0%25A0%25D0%25A3%25D0%2594%25D0%259E%25D0%25A3%25D0%25A1%25D0%25A2%25D0%25A0%25D0%259E%25D0%25AF%25D0%2592%25D0%2590%25D0%259D%25D0%2595.doc": "356b45eaafd6ca9357214fe898b5ca91",
 "assets/assets/documents/Zakon-za-tehnicheskite-iziskvaniq-kam-produktite.doc": "543643b4f210d4824cba4d5730e998a3",
 "assets/assets/documents/Naredba-8.doc": "374028d2a6722630648403c48af8e2d9",
 "assets/assets/fonts/Montserrat-LightItalic.ttf": "e70e5d8d5129f35418fe2cfaa6132c1d",
@@ -96,11 +95,7 @@ const RESOURCES = {
 "assets/assets/fonts/OpenSans-BoldItalic.ttf": "210de434db54de4a6a73d1cf8604e224",
 "assets/assets/fonts/Montserrat-SemiBoldItalic.ttf": "d41c0a341637c2e35ae019730b2d45a5",
 "assets/assets/fonts/Montserrat-ExtraBoldItalic.ttf": "e07b3f35e3e0073b2cde4c5a951cc24e",
-"browserconfig.xml": "d2c3ec839559c9b7c7638c378d45bca5",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"browserconfig.xml": "d2c3ec839559c9b7c7638c378d45bca5"
 };
 
 // The application shell files that are downloaded before a service worker can
